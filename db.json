@@ -1,0 +1,232 @@
+{
+  "users": [
+    {
+      "name": "Inturi manikanta",
+      "email": "i.manikanta4545@gmail.com",
+      "password": "mani@4545",
+      "id": "u2nGiFPqDpU",
+      "role": "admin"
+    },
+    {
+      "name": "Likhita",
+      "email": "liki@gmail.com",
+      "password": "liki1234",
+      "id": "UblRuqbbcnU",
+      "role": "user"
+    },
+    {
+      "name": "john doe",
+      "email": "johndoe@gmail.com",
+      "password": "123456",
+      "id": "LFiBvVVOw_c",
+      "role": "user"
+    },
+    {
+      "name": "Nakshatra",
+      "email": "nakshatra@gmail.com",
+      "password": "naks1234",
+      "id": "htlkq2YvYUQ",
+      "role": "user"
+    },
+    {
+      "name": "alice johnson",
+      "email": "alicejohn@gmail.com",
+      "password": "alice@1212",
+      "role": "user",
+      "id": "jJ3xNmWkQxc"
+    }
+  ],
+  "cart": [
+    {
+      "productId": 3,
+      "title": "Powder Canister",
+      "price": 14.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "quantity": 49,
+      "id": "PxwwiVblY9s"
+    },
+    {
+      "productId": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "price": 19.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "quantity": 2,
+      "id": "kPk830sutAw"
+    },
+    {
+      "productId": 5,
+      "title": "Red Nail Polish",
+      "price": 8.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+      "quantity": 1,
+      "id": "QgIzhPefFso"
+    },
+    {
+      "productId": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "price": 129.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "quantity": 1,
+      "id": "J3KZic6EVbM"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "htlkq2YvYUQ",
+      "items": [
+        {
+          "userId": "htlkq2YvYUQ",
+          "productId": 2,
+          "title": "Eyeshadow Palette with Mirror",
+          "price": 19.99,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+          "quantity": 1,
+          "id": "z_QU1WYM4Ps"
+        }
+      ],
+      "total": 19.99,
+      "status": "Delivered",
+      "date": "8/4/2026",
+      "id": "cTTApJrs7so"
+    },
+    {
+      "userId": "htlkq2YvYUQ",
+      "items": [
+        {
+          "userId": "htlkq2YvYUQ",
+          "productId": 2,
+          "title": "Eyeshadow Palette with Mirror",
+          "price": 19.99,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+          "quantity": 1,
+          "id": "z_QU1WYM4Ps"
+        }
+      ],
+      "total": 19.99,
+      "status": "Shipped",
+      "date": "8/4/2026",
+      "id": "vxyMS-Smt38"
+    },
+    {
+      "userId": "htlkq2YvYUQ",
+      "items": [
+        {
+          "userId": "htlkq2YvYUQ",
+          "productId": 7,
+          "title": "Chanel Coco Noir Eau De",
+          "price": 129.99,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+          "quantity": 1,
+          "id": "Ldnca63f-ZI"
+        }
+      ],
+      "total": 129.99,
+      "status": "Confirmed",
+      "date": "8/4/2026",
+      "id": "fpiE87ewnsQ"
+    },
+    {
+      "userId": "htlkq2YvYUQ",
+      "items": [
+        {
+          "userId": "htlkq2YvYUQ",
+          "productId": 191,
+          "title": "Rolex Cellini Moonphase",
+          "price": 15999.99,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/thumbnail.webp",
+          "quantity": 1,
+          "id": "i9jnKuDi6KY"
+        }
+      ],
+      "total": 15999.99,
+      "status": "Confirmed",
+      "date": "8/4/2026",
+      "id": "ZcNN89aZMX4"
+    },
+    {
+      "userId": "u2nGiFPqDpU",
+      "items": [
+        {
+          "userId": "u2nGiFPqDpU",
+          "productId": 3,
+          "title": "Powder Canister",
+          "price": 14.99,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+          "quantity": 1,
+          "id": "p4NgtWa0mJ8"
+        },
+        {
+          "userId": "u2nGiFPqDpU",
+          "productId": "ECzzZvTF8Tw",
+          "title": "Nike Air Max",
+          "price": 4993,
+          "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+          "quantity": 1,
+          "id": "APJvJBGuo54"
+        }
+      ],
+      "total": 5007.99,
+      "status": "Confirmed",
+      "date": "8/4/2026",
+      "id": "gkoeeOCWBNw"
+    },
+    {
+      "userId": "u2nGiFPqDpU",
+      "items": [
+        {
+          "userId": "u2nGiFPqDpU",
+          "productId": "ECzzZvTF8Tw",
+          "title": "Nike Air Max",
+          "price": 4993,
+          "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+          "quantity": 2,
+          "id": "hZeK_9qkdq0"
+        },
+        {
+          "userId": "u2nGiFPqDpU",
+          "productId": 11,
+          "title": "Annibale Colombo Bed",
+          "price": 1899.99,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+          "quantity": 2,
+          "id": "Gy1jbu4WQhg"
+        }
+      ],
+      "total": 13785.98,
+      "status": "Confirmed",
+      "date": "8/13/2026",
+      "id": "O57mC-q7-tI"
+    }
+  ],
+  "wishlist": [],
+  "products": [
+    {
+      "title": "Benz",
+      "category": "car",
+      "price": 100000,
+      "thumbnail": "bg",
+      "description": "mercedez",
+      "stock": 3,
+      "id": "1XpDTrv2480"
+    },
+    {
+      "title": "Nike Air Max",
+      "category": "shoes",
+      "price": 4993,
+      "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Nike shoes",
+      "stock": 112,
+      "id": "ECzzZvTF8Tw"
+    },
+    {
+      "title": "Red Shirt",
+      "category": "Mens wear",
+      "price": 170,
+      "thumbnail": "..",
+      "description": "Mens shirts",
+      "stock": 194,
+      "id": "3d5313XKthM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
