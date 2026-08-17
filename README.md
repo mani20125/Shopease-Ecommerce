@@ -226,28 +226,6 @@ Password:
 
 ---
 
-# 📸 Screenshots
-
-Add your screenshots here:
-
-```
-screenshots/
-│
-├── home.png
-├── shop.png
-├── product-details.png
-├── cart.png
-├── checkout.png
-└── admin-dashboard.png
-```
-
-Example:
-
-```markdown
-![Admin Dashboard](screenshots/admin-dashboard.png)
-```
-
----
 
 # 🌟 Key Highlights
 
